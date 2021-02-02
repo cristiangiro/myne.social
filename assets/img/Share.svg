@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#FA3B47;}
+	.st2{font-family:'Rubik-Regular';}
+	.st3{font-size:70px;}
+</style>
+<g>
+	<path class="st0" d="M609.6,386.1H390.8c-11,0-20.1,10.8-20.1,24v99.1c0,13.2,9,24,20.1,24h79.9l8.6,25.5l17.1,50.8
+		c1.7,5.2,6.8,5.2,8.5,0l17.1-50.8l8.6-25.5h79c11,0,20.1-10.8,20.1-24v-99.1C629.7,396.9,620.6,386.1,609.6,386.1z"/>
+	<g id="icons">
+		<path id="share" class="st1" d="M485.8,449.7l-29.3-26.6c-2.2-2.2-4.9,0-4.9,3.5V440c-20.9,0-38.6,12.9-47,30.2
+			c-3.1,5.8-4.9,12-6.2,18.2c-0.9,4.4,5.8,6.7,8.4,2.7c9.8-15.5,26.2-25.7,44.8-25.7v14.6c0,3.5,2.7,5.8,4.9,3.5l29.3-26.6
+			C487.6,455.1,487.6,451.5,485.8,449.7z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 513.2437 479.0065)" class="st1 st2 st3">18</text>
+</g>
+</svg>
