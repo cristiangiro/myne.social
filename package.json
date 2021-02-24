@@ -1,0 +1,29 @@
+{
+  "name": "myne-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass assets/sass/bootstrap.scss assets/css/css.css",
+    "postcss": "postcss assets/css/css.css -r",
+    "css": "npm-run-all sass postcss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiangiro/myne.social.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristiangiro/myne.social/issues"
+  },
+  "homepage": "https://github.com/cristiangiro/myne.social#readme",
+  "dependencies": {
+    "sass-node": "^4.11.2"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "postcss": "^8.2.6",
+    "postcss-cli": "^8.3.1"
+  }
+}
