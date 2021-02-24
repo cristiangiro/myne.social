@@ -70,6 +70,8 @@ emo
   .add({
     targets: ".emo",
     opacity: [0, 1],
+    bottom: "56%",
+    left: "75%",
   })
   .add({
     targets: "#emo1",
