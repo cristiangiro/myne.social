@@ -7,48 +7,32 @@
 
 // scss-docs-start import-stack
 // Configuration
-@import "functions";
-@import "variables";
-@import "mixins";
-@import "utilities";
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+@import "bootstrap/utilities";
 
 // Layout & components
-@import "root";
-@import "reboot";
-@import "type";
-@import "images";
-@import "containers";
-@import "grid";
-// @import "tables";
-// @import "forms";
-@import "buttons";
-@import "transitions";
-@import "dropdown";
-@import "button-group";
-@import "nav";
-@import "navbar";
-// @import "card";
-// @import "accordion";
-// @import "breadcrumb";
-@import "pagination";
-// @import "badge";
-// @import "alert";
-// @import "progress";
-// @import "list-group";
-// @import "close";
-// @import "toasts";
-// @import "modal";
-// @import "tooltip";
-// @import "popover";
-@import "carousel";
-// @import "spinners";
+@import "bootstrap/root";
+@import "bootstrap/reboot";
+@import "bootstrap/type";
+@import "bootstrap/images";
+@import "bootstrap/containers";
+@import "bootstrap/grid";
+@import "bootstrap/buttons";
+@import "bootstrap/transitions";
+@import "bootstrap/dropdown";
+@import "bootstrap/button-group";
+@import "bootstrap/nav";
+@import "bootstrap/navbar";
+@import "bootstrap/pagination";
+@import "bootstrap/carousel";
 
 // Helpers
-@import "helpers";
+@import "bootstrap/helpers";
 
 // Utilities
-@import "utilities/api";
-// scss-docs-end import-stack
+@import "bootstrap/utilities/api";
 
 //custom
 @import url("https://use.typekit.net/yvf2jfv.css");

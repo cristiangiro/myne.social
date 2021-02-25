@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "webp": "forfiles /S /M *.png /C \"cwebp -q 100 @FILE -o @FNAME.webp\"",
-    "sass": "node-sass assets/sass/bootstrap.scss assets/css/css.css",
+    "sass": "node-sass assets/sass/css.scss assets/css/css.css",
     "postcss": "postcss assets/css/css.css -r",
     "css": "npm-run-all sass postcss"
   },
